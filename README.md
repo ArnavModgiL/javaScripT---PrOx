@@ -1,5 +1,3 @@
-# javaScripT---PrOx
-
 # JavaScript Practice & Mini Projects
 
 This repository contains my JavaScript learning journey.  
