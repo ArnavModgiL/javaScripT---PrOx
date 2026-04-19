@@ -1,4 +1,4 @@
-# JavaScript Practice & Mini Projects
+# JavaScript Practice & Mini Projects :
 
 This repository contains my JavaScript learning journey.  
 I am practicing JavaScript fundamentals, problem solving, and building small projects.
@@ -13,7 +13,6 @@ I am practicing JavaScript fundamentals, problem solving, and building small pro
 - Arrays
 - Objects
 - DOM Manipulation
-- Events
 
 ## Mini Projects
 
@@ -28,8 +27,9 @@ I am practicing JavaScript fundamentals, problem solving, and building small pro
 - JavaScript
 - HTML
 - CSS
+- Bootstrap
 
 ## Author
 
 Arnav Modgil  
-B.Tech Student | Learning Web Development
+B.Tech Student | Learning Web Development | Exploring my Potential.
