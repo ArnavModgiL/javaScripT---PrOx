@@ -3,7 +3,7 @@
 This repository contains my JavaScript learning journey.  
 I am practicing JavaScript fundamentals, problem solving, and building small projects.
 
-## Topics Covered
+## Topics Covered:
 
 - Variables and Data Types
 - Operators
@@ -14,7 +14,7 @@ I am practicing JavaScript fundamentals, problem solving, and building small pro
 - Objects
 - DOM Manipulation
 
-## Mini Projects
+## Mini Projects:
 
 - Counter App
 - Calculator
@@ -22,14 +22,14 @@ I am practicing JavaScript fundamentals, problem solving, and building small pro
 - To-Do List
 - Random Quote Generator
 
-## Technologies Used
+## Technologies Used:
 
 - JavaScript
 - HTML
 - CSS
 - Bootstrap
 
-## Author
+## Author:
 
 Arnav Modgil  
 B.Tech Student | Learning Web Development | Exploring my Potential.
