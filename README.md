@@ -1,4 +1,4 @@
-# JavaScript Practice & Mini Projects :
+# JavaScript Practice & Mini Projects:-
 
 This repository contains my JavaScript learning journey.  
 I am practicing JavaScript fundamentals, problem solving, and building small projects.
