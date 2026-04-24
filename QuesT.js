@@ -36,7 +36,7 @@ if(original === rev){
     return "Not Palindrome";
 }
 
-// Factorial using Prompt() -
+// Factorial using Prompt() - corrected 
 
 let num = prompt("Enter a Number:: ");
 let fact = 1;
@@ -46,3 +46,25 @@ for(let i = 1; i <= num ; i++){
 }
 
 console.log("Factorial:",fact);
+
+
+// Prime Number : Corrected 
+
+let num = prompt("Enter the Number");
+let prime = true;
+
+if( num <= 1) {
+    prime = false;
+} else {
+    for(let i = 2; i < num; i++) {
+        if(num % i === 0) {
+            prime = false;
+            break;
+        }
+    }
+}
+if(prime) {
+    console.log("Prime Number");
+} else {
+    console.log("Not Prime");
+}
