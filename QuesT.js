@@ -81,3 +81,19 @@ while(num > 0) {
 }
 
 console.log("Sum of digits:" , sum);
+
+// Largest of THree Numbers using Prompt() 
+
+let a = prompt("Enter first number: ");
+let b = prompt("Enter second number: ");
+let c = prompt("Enter Third number: ");
+
+let largest = a;
+
+if(b > largest) {
+    largest = b;
+}
+if(c > largest){
+    largest = c;
+}
+console.log("Largest Number",largest);
