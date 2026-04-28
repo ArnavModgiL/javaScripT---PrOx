@@ -9,7 +9,7 @@ while(guess != random) {
 if(guess > random) {
     console.log("Too High !");
 }
-else if( guess < random) {
+else if(guess < random) {
     console.log("Too Low !");
 }
 else {
