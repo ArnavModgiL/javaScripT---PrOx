@@ -1,7 +1,7 @@
-// ATM Machine Game 💳
+// ATM Machine Game 💳 :
 
 let balance = 10000;
-let choice = prompt("Enter withdraw / check: ");
+let choice = prompt("Enter withdraw: ");
 
 if(choice === "check") {
     console.log("Balance: ",balance);
