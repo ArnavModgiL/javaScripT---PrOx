@@ -1,7 +1,7 @@
 // Some BasiC LogIc BuiD Questions : 
 
 
-// Reverse a number :
+// Reverse a number : -- corrected
 
 function reverseNumber(num){
     let rev = 0;
@@ -18,7 +18,7 @@ console.log(reverseNumber(12345));
 
 // OuTPUT : 54321
 
-// Check Palindrome Number : - :
+// Check Palindrome Number : -- corrected
 
 let num = prompt("Enter the Number: ");
 let original = num;
@@ -70,7 +70,7 @@ if(prime) {
 }
 
 
-// Sum of digits using prompt() 
+// Sum of digits using prompt() -- corrected
 
 let num = prompt("Enter a number: ");
 let sum = 0;
@@ -82,7 +82,7 @@ while(num > 0) {
 
 console.log("Sum of digits:" , sum);
 
-// Largest of THree Numbers using Prompt() 
+// Largest of THree Numbers using Prompt() -- corrected
 
 let a = prompt("Enter first number: ");
 let b = prompt("Enter second number: ");
@@ -99,7 +99,7 @@ if(c > largest){
 console.log("Largest Number",largest);
 
 
-// Fibonacci Series using prompt()
+// Fibonacci Series using prompt() -- corrected
 
 let n = prompt("enter the number");
 let a = 0;
