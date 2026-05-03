@@ -1,4 +1,4 @@
-// Password Checker 🔐
+// Password Checker 🔐 
 
 let password = "arnav@125";
 let userPass;
