@@ -8,7 +8,7 @@ if(choice === "check") {
 }
 else if(choice === "withdraw") {
     let amount = prompt("Enter amount: ");
-
+ 
     if(amount <= balance) {
         balance = balance - amount;
         console.log("Withdraw Successful");
