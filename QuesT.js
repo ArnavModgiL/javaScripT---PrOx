@@ -1,4 +1,4 @@
-// Some BasiC LogIc BuiD Questions : 
+// Some BasiC LogIc BuiD Questions :  
 
 
 // Reverse a number : -- corrected
