@@ -1,4 +1,4 @@
-// ATM Machine Game 💳 :
+// ATM Machine Game 💳 : 
 
 let balance = 10000;
 let choice = prompt("Enter withdraw: ");
