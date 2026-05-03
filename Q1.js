@@ -5,7 +5,7 @@ let userPass;
 
 while(userPass != password) {
     userPass = prompt("Enter Password: ");
-
+ 
     if( userPass != password) {
         console.log("Wrong Password! ");
     } else {
