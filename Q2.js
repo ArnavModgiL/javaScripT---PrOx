@@ -1,4 +1,4 @@
-// Guess the number Game 🎯 :
+// Guess the number Game 🎯 : 
 
 let random = Math.floor(Math.random() * 10) + 1;
 let guess;
